@@ -7,6 +7,9 @@ This project demonstrates a **complete data automation pipeline** that integrate
 It simulates a real-world BI/Data Engineering workflow — from **data ingestion → cleaning → transformation → storage → visualization → automation**.
 
 ---
+<img width="1024" height="1536" alt="Step" src="https://github.com/user-attachments/assets/1593b554-3106-4e2a-9063-cf75e7e7d5fb" />
+
+
 
 ## 🔑 Features
 
